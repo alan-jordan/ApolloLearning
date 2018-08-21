@@ -1,3 +1,5 @@
 - Express
 - Apollo-express middleware
 - Jest
+- Eslint
+- Webpack
